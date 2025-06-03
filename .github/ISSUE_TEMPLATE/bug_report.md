@@ -14,7 +14,7 @@ Keep in mind that by filing an issue, you are expected to comply with Scrapy's C
 
 The following is a suggested template to structure your issue, you can find more guidelines at https://doc.scrapy.org/en/latest/contributing.html#reporting-bugs
 
--->
+--->
 
 ### Description
 
